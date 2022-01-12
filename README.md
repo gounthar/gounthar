@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Got in love with embedded when playing with the HP48SX in 1989
 
 Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeepeer and permie. #Linux #Android #Docker #ARMV8 #IOT
+
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
