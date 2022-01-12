@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Edge Impulse
 - 👯 I’m looking to collaborate on DeviceFarmer
 - 🤔 I’m looking for help with designing add-on boards for SBCs
-- 💬 Ask me about Linux on SBCs
+- 💬 Ask me about Linux on SBCs, Docker, DeviceFarmer
 - 📫 How to reach me: poddingue on Twitter, LinkedIn
 - 😄 Pronouns: He
 - ⚡ Fun fact: Got in love with embedded when playing with the HP48SX in 1989
