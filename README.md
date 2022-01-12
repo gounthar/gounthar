@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeepeer and permie. #Linux #Android #Docker #ARMV8 #IOT
 
-# Latest Blogs
+### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
