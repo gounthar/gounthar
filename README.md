@@ -18,14 +18,14 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [termtosvg on aarch64 Debian](/2021/08/20/Installing-termtosvg-on-aarch64/)
-- [Installing libltc on armhf Debian](/2021/08/20/Installing-libltc-on-armhf/)
-- [Installing asciicast2gif on aarch64 Debian bullseye](/2021/08/20/Installing-asciicast-on-aarch64/)
-- [How to install Armbian on the Station P1 starting from Android](/2021/02/18/How-to-Install-Armbian-on-the-Station-P1/)
-- [Firefly Station P1 first review](/2021/01/14/Firefly-Station-P1-first-review/)
-- [🍊 ARM your continuous integration system with fruits! 🍌](/2021/01/11/Arm-your-ci-with-fruits/)
-- [Installing Caffe on the Orange Pi 4B](/2020/06/22/installing-Caffee-on-the-orangepi-4b/)
-- [Installing TensorFlow on the Orange Pi 4B](/2020/06/19/installing-tensorflow-on-the-orangepi-4b/)
-- [Sphinx: Installing sphinxbase on the OrangePi 4B](/2020/06/05/installing-sphinxbase-on-the-OrangePi-4B/)
-- [Sphinx: Installing pocketsphinx and sphinxtrain on the OrangePi 4B](/2020/06/05/installing-pocketsphinx-on-the-OrangePi-4B/)
+- [termtosvg on aarch64 Debian](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/08/20/Installing-termtosvg-on-aarch64/)
+- [Installing libltc on armhf Debian](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/08/20/Installing-libltc-on-armhf/)
+- [Installing asciicast2gif on aarch64 Debian bullseye](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/08/20/Installing-asciicast-on-aarch64/)
+- [How to install Armbian on the Station P1 starting from Android](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/02/18/How-to-Install-Armbian-on-the-Station-P1/)
+- [Firefly Station P1 first review](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/01/14/Firefly-Station-P1-first-review/)
+- [🍊 ARM your continuous integration system with fruits! 🍌](https://bruno.verachten.frhttps://bruno.verachten.fr/2021/01/11/Arm-your-ci-with-fruits/)
+- [Installing Caffe on the Orange Pi 4B](https://bruno.verachten.frhttps://bruno.verachten.fr/2020/06/22/installing-Caffee-on-the-orangepi-4b/)
+- [Installing TensorFlow on the Orange Pi 4B](https://bruno.verachten.frhttps://bruno.verachten.fr/2020/06/19/installing-tensorflow-on-the-orangepi-4b/)
+- [Sphinx: Installing sphinxbase on the OrangePi 4B](https://bruno.verachten.frhttps://bruno.verachten.fr/2020/06/05/installing-sphinxbase-on-the-OrangePi-4B/)
+- [Sphinx: Installing pocketsphinx and sphinxtrain on the OrangePi 4B](https://bruno.verachten.frhttps://bruno.verachten.fr/2020/06/05/installing-pocketsphinx-on-the-OrangePi-4B/)
 <!-- BLOG-POST-LIST:END -->
