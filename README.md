@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Continuous Integration for Mobile Development and Edge Computing
-- 🌱 I’m currently learning Edge Impulse
+- 🔭 I’m currently working on Continuous Integration for Mobile Development and Jenkins
 - 👯 I’m looking to collaborate on DeviceFarmer
 - 🤔 I’m looking for help with designing add-on boards for SBCs
 - 💬 Ask me about Linux on SBCs, Docker, DeviceFarmer
