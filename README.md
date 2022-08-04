@@ -17,6 +17,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Create a new Jenkins node, and run your Jenkins agent as a service](https://bruno.verachten.fr/2022/08/02/run-your-jenkins-agent-as-a-service/)
 - [Using jenkins to build Android applications](https://bruno.verachten.fr/2022/08/02/naively-building-android-apps-with-jenkins/)
 - [termtosvg on aarch64 Debian](https://bruno.verachten.fr/2021/08/20/Installing-termtosvg-on-aarch64/)
 - [Installing libltc on armhf Debian](https://bruno.verachten.fr/2021/08/20/Installing-libltc-on-armhf/)
@@ -26,5 +27,4 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [🍊 ARM your continuous integration system with fruits! 🍌](https://bruno.verachten.fr/2021/01/11/Arm-your-ci-with-fruits/)
 - [Installing Caffe on the Orange Pi 4B](https://bruno.verachten.fr/2020/06/22/installing-Caffee-on-the-orangepi-4b/)
 - [Installing TensorFlow on the Orange Pi 4B](https://bruno.verachten.fr/2020/06/19/installing-tensorflow-on-the-orangepi-4b/)
-- [Sphinx: Installing sphinxbase on the OrangePi 4B](https://bruno.verachten.fr/2020/06/05/installing-sphinxbase-on-the-OrangePi-4B/)
 <!-- BLOG-POST-LIST:END -->
