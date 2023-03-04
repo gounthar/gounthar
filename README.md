@@ -17,6 +17,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [miniJen and RISC-V](/2023/02/23/miniJen-and-RISC-V/)
 - [miniJen is alive!](/2023/02/16/miniJen-is-alive/)
 - [Build a Jenkins MSI on your own Windows machine](/2022/12/01/building-the-jenkins-msi-on-your-windows-machine/)
 - [Using jenkins to build Android applications](/2022/11/18/naively-building-android-apps/)
@@ -26,5 +27,4 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Installing libltc on armhf Debian](/2021/08/20/Installing-libltc-on-armhf/)
 - [Installing asciicast2gif on aarch64 Debian bullseye](/2021/08/20/Installing-asciicast-on-aarch64/)
 - [How to install Armbian on the Station P1 starting from Android](/2021/02/18/How-to-Install-Armbian-on-the-Station-P1/)
-- [Firefly Station P1 first review](/2021/01/14/Firefly-Station-P1-first-review/)
 <!-- BLOG-POST-LIST:END -->
