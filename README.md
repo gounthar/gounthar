@@ -17,6 +17,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Android and Jenkins](/2023/03/10/android-and-jenkins/)
 - [miniJen and RISC-V](/2023/02/23/miniJen-and-RISC-V/)
 - [miniJen is alive!](/2023/02/16/miniJen-is-alive/)
 - [Build a Jenkins MSI on your own Windows machine](/2022/12/01/building-the-jenkins-msi-on-your-windows-machine/)
@@ -26,5 +27,4 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [termtosvg on aarch64 Debian](/2021/08/20/Installing-termtosvg-on-aarch64/)
 - [Installing libltc on armhf Debian](/2021/08/20/Installing-libltc-on-armhf/)
 - [Installing asciicast2gif on aarch64 Debian bullseye](/2021/08/20/Installing-asciicast-on-aarch64/)
-- [How to install Armbian on the Station P1 starting from Android](/2021/02/18/How-to-Install-Armbian-on-the-Station-P1/)
 <!-- BLOG-POST-LIST:END -->
