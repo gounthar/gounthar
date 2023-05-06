@@ -17,6 +17,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Building Android apps with Jenkins: release management](/2023/05/03/android-and-jenkins-releases/)
 - [Building Android apps with Jenkins: an introduction](/2023/04/05/android-and-jenkins-discovery/)
 - [Android and Jenkins](/2023/03/10/android-and-jenkins/)
 - [miniJen and RISC-V](/2023/02/23/miniJen-and-RISC-V/)
@@ -26,5 +27,4 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Create a new Jenkins node, and run your Jenkins agent as a service](/2022/08/02/run-your-jenkins-agent-as-a-service/)
 - [Using jenkins to build Android applications](/2022/08/02/naively-building-android-apps-with-jenkins/)
 - [termtosvg on aarch64 Debian](/2021/08/20/Installing-termtosvg-on-aarch64/)
-- [Installing libltc on armhf Debian](/2021/08/20/Installing-libltc-on-armhf/)
 <!-- BLOG-POST-LIST:END -->
