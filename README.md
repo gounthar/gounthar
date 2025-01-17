@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeeper and permie. #Linux #Android #Docker #ARMV8 #IOT
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gounthar)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=gounthar)]
+![](https://github-readme-streak-stats-eight.vercel.app/?user=gounthar&theme=merko)
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
