@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Got in love with embedded/handheld hardware when playing with the HP48SX in 1989
 
-Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeeper and permie. #Linux #Android #Docker #ARMV8 #IOT
+Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeeper, and permie. #Linux #Android #Docker #ARMV8 #IOT
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=gounthar)]
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=gounthar&theme=merko)
