@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](/2025/10/30/automating-jenkins-on-android-with-ansible/)
 - [Android and Jenkins: What Is the Limit? Part Two.](/2025/05/21/jenkins-on-android/)
 - [A glimpse of the future](/2023/08/25/a-glimpse-of-the-future/)
 - [Building Android apps with Jenkins: release management](/2023/05/03/android-and-jenkins-releases/)
@@ -29,5 +30,4 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [miniJen is alive!](/2023/02/16/miniJen-is-alive/)
 - [Build a Jenkins MSI on your own Windows machine](/2022/12/01/building-the-jenkins-msi-on-your-windows-machine/)
 - [Using jenkins to build Android applications](/2022/11/18/naively-building-android-apps/)
-- [Create a new Jenkins node, and run your Jenkins agent as a service](/2022/08/02/run-your-jenkins-agent-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
