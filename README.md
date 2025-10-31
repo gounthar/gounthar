@@ -19,4 +19,14 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=gounthar&theme=merko)
 
 ### Latest Blogs
-<!-- BLOG-POST-LIST:START -->- [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](https://bruno.verachten.fr/2025/10/30/automating-jenkins-on-android-with-ansible/)#newline#- [Android and Jenkins: What Is the Limit? Part Two.](https://bruno.verachten.fr/2025/05/21/jenkins-on-android/)#newline#- [A glimpse of the future](https://bruno.verachten.fr/2023/08/25/a-glimpse-of-the-future/)#newline#- [Building Android apps with Jenkins: release management](https://bruno.verachten.fr/2023/05/03/android-and-jenkins-releases/)#newline#- [Building Android apps with Jenkins: an introduction](https://bruno.verachten.fr/2023/04/05/android-and-jenkins-discovery/)#newline#- [Android and Jenkins](https://bruno.verachten.fr/2023/03/10/android-and-jenkins/)#newline#- [miniJen and RISC-V](https://bruno.verachten.fr/2023/02/23/miniJen-and-RISC-V/)#newline#- [miniJen is alive!](https://bruno.verachten.fr/2023/02/16/miniJen-is-alive/)#newline#- [Build a Jenkins MSI on your own Windows machine](https://bruno.verachten.fr/2022/12/01/building-the-jenkins-msi-on-your-windows-machine/)#newline#- [Using jenkins to build Android applications](https://bruno.verachten.fr/2022/11/18/naively-building-android-apps/)#newline#<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](https://bruno.verachten.fr/2025/10/30/automating-jenkins-on-android-with-ansible/)
+- [Android and Jenkins: What Is the Limit? Part Two.](https://bruno.verachten.fr/2025/05/21/jenkins-on-android/)
+- [A glimpse of the future](https://bruno.verachten.fr/2023/08/25/a-glimpse-of-the-future/)
+- [Building Android apps with Jenkins: release management](https://bruno.verachten.fr/2023/05/03/android-and-jenkins-releases/)
+- [Building Android apps with Jenkins: an introduction](https://bruno.verachten.fr/2023/04/05/android-and-jenkins-discovery/)
+- [Android and Jenkins](https://bruno.verachten.fr/2023/03/10/android-and-jenkins/)
+- [miniJen and RISC-V](https://bruno.verachten.fr/2023/02/23/miniJen-and-RISC-V/)
+- [miniJen is alive!](https://bruno.verachten.fr/2023/02/16/miniJen-is-alive/)
+- [Build a Jenkins MSI on your own Windows machine](https://bruno.verachten.fr/2022/12/01/building-the-jenkins-msi-on-your-windows-machine/)
+- [Using jenkins to build Android applications](https://bruno.verachten.fr/2022/11/18/naively-building-android-apps/)
+<!-- BLOG-POST-LIST:END -->
