@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Running a 70B LLM on Pure RISC-V: The MilkV Pioneer Deployment Journey](https://bruno.verachten.fr/2025/11/10/running-70b-llm-on-risc-v-milkv-pioneer/)
 - [Docker Buildx for RISC-V64: When Infrastructure Just Works](https://bruno.verachten.fr/2025/11/07/docker-buildx-riscv64-infrastructure-maturity/)
 - [Building Node.js Natively on RISC-V: A 15-Hour Journey from Fork to Release](https://bruno.verachten.fr/2025/11/07/building-nodejs-natively-on-riscv/)
 - [Running GitHub Actions on RISC-V64: A Production Journey with Docker Builds](https://bruno.verachten.fr/2025/11/06/github-runner-riscv64-setup/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [A glimpse of the future](https://bruno.verachten.fr/2023/08/25/a-glimpse-of-the-future/)
 - [Building Android apps with Jenkins: release management](https://bruno.verachten.fr/2023/05/03/android-and-jenkins-releases/)
 - [Building Android apps with Jenkins: an introduction](https://bruno.verachten.fr/2023/04/05/android-and-jenkins-discovery/)
-- [Android and Jenkins](https://bruno.verachten.fr/2023/03/10/android-and-jenkins/)
 
 <!-- BLOG-POST-LIST:END -->
