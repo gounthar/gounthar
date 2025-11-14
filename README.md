@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Continuous Integration for Mobile Development and Jenkins
 - 👯 I’m looking to collaborate on DeviceFarmer
 - 🤔 I’m looking for help with designing add-on boards for SBCs
-- 💬 Ask me about Linux on SBCs, Docker, DeviceFarmer
-- 📫 How to reach me: poddingue on Twitter, LinkedIn
-- 😄 Pronouns: He
+- 💬 Ask me about Jenkins, Linux on SBCs, Docker, ARM, RISC-V
+- 📫 How to reach me: poddingue on Twitter/X, and LinkedIn
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Got in love with embedded/handheld hardware when playing with the HP48SX in 1989
 
 Father of two, husband of one, geek in denial, fond of handheld devices since 1989, beekeeper, and permie. #Linux #Android #Docker #ARMV8 #IOT
