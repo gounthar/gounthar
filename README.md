@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Bringing AI Agents to RISC-V64: The First cagent Distribution Package](https://bruno.verachten.fr/2025/11/14/bringing-ai-agents-to-riscv64-full/)
 - [Docker v29 Lands on RISC-V64 in Under a Week: The Future is Here](https://bruno.verachten.fr/2025/11/12/docker-v29-riscv64-six-day-turnaround/)
 - [Running a 70B LLM on Pure RISC-V: The MilkV Pioneer Deployment Journey](https://bruno.verachten.fr/2025/11/10/running-70b-llm-on-risc-v-milkv-pioneer/)
 - [Docker Buildx for RISC-V64: When Infrastructure Just Works](https://bruno.verachten.fr/2025/11/07/docker-buildx-riscv64-infrastructure-maturity/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](https://bruno.verachten.fr/2025/10/30/automating-jenkins-on-android-with-ansible/)
 - [Android and Jenkins: What Is the Limit? Part Two.](https://bruno.verachten.fr/2025/05/21/jenkins-on-android/)
 - [A glimpse of the future](https://bruno.verachten.fr/2023/08/25/a-glimpse-of-the-future/)
-- [Building Android apps with Jenkins: release management](https://bruno.verachten.fr/2023/05/03/android-and-jenkins-releases/)
 
 <!-- BLOG-POST-LIST:END -->
