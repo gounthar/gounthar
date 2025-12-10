@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [BuildKit for RISC-V64: When Your Demo Decides to Betray You](https://bruno.verachten.fr/2025/12/09/buildkit-for-riscv64-when-your-demo-decides-to-betray-you/)
 - [Fixing Concurrent GitHub Actions Workflows: Multi-Architecture Package Repository Guide](https://bruno.verachten.fr/2025/11/20/fixing-concurrent-github-actions-workflows-multi-architecture-package-repository-guide/)
 - [The One-Line Patch That Unlocked Next.js on RISC-V: A Detective Story](https://bruno.verachten.fr/2025/11/15/nextjs-riscv64-one-line-patch-breakthrough/)
 - [Building Next.js SWC from Source for RISC-V: A Journey Through the ring Dependency Maze](https://bruno.verachten.fr/2025/11/14/building-nextjs-swc-from-source-for-riscv/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Docker Buildx for RISC-V64: When Infrastructure Just Works](https://bruno.verachten.fr/2025/11/07/docker-buildx-riscv64-infrastructure-maturity/)
 - [Building Node.js Natively on RISC-V: A 15-Hour Journey from Fork to Release](https://bruno.verachten.fr/2025/11/07/building-nodejs-natively-on-riscv/)
 - [Running GitHub Actions on RISC-V64: A Production Journey with Docker Builds](https://bruno.verachten.fr/2025/11/06/github-runner-riscv64-setup/)
-- [Spring Cleaning a 2.1M+ Pull Docker Project: From Buster to RISC-V](https://bruno.verachten.fr/2025/11/01/spring-cleaning-docker-adb-buster-to-riscv/)
 
 <!-- BLOG-POST-LIST:END -->
