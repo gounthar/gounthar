@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://bruno.verachten.fr/2025/12/26/the-ring-around-the-rosie-upgrading-nextjs-on-riscv/)
 - [The Old Dog Learns a New Trick: Cross-Compiling Tauri CLI for RISC-V](https://bruno.verachten.fr/2025/12/23/the-old-dog-learns-a-new-trick-cross-compiling-tauri-cli-for-riscv/)
 - [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://bruno.verachten.fr/2025/12/22/adding-riscv-support-to-armbian-imager/)
 - [BuildKit for RISC-V64: When Your Package Works But Your Container Doesn&#39;t](https://bruno.verachten.fr/2025/12/10/buildkit-riscv64-debugging-after-deployment/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Building Next.js SWC from Source for RISC-V: A Journey Through the ring Dependency Maze](https://bruno.verachten.fr/2025/11/14/building-nextjs-swc-from-source-for-riscv/)
 - [Bringing AI Agents to RISC-V64: The First cagent Distribution Package](https://bruno.verachten.fr/2025/11/14/bringing-ai-agents-to-riscv64-full/)
 - [Docker v29 Lands on RISC-V64 in Under a Week: The Future is Here](https://bruno.verachten.fr/2025/11/12/docker-v29-riscv64-six-day-turnaround/)
-- [Running a 70B LLM on Pure RISC-V: The MilkV Pioneer Deployment Journey](https://bruno.verachten.fr/2025/11/10/running-70b-llm-on-risc-v-milkv-pioneer/)
 
 <!-- BLOG-POST-LIST:END -->
