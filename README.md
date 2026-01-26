@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://bruno.verachten.fr/2026/01/15/docker-unsupported-gpu-second-life/)
 - [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://bruno.verachten.fr/2025/12/26/the-ring-around-the-rosie-upgrading-nextjs-on-riscv/)
 - [The Old Dog Learns a New Trick: Cross-Compiling Tauri CLI for RISC-V](https://bruno.verachten.fr/2025/12/23/the-old-dog-learns-a-new-trick-cross-compiling-tauri-cli-for-riscv/)
 - [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://bruno.verachten.fr/2025/12/22/adding-riscv-support-to-armbian-imager/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [The One-Line Patch That Unlocked Next.js on RISC-V: A Detective Story](https://bruno.verachten.fr/2025/11/15/nextjs-riscv64-one-line-patch-breakthrough/)
 - [Building Next.js SWC from Source for RISC-V: A Journey Through the ring Dependency Maze](https://bruno.verachten.fr/2025/11/14/building-nextjs-swc-from-source-for-riscv/)
 - [Bringing AI Agents to RISC-V64: The First cagent Distribution Package](https://bruno.verachten.fr/2025/11/14/bringing-ai-agents-to-riscv64-full/)
-- [Docker v29 Lands on RISC-V64 in Under a Week: The Future is Here](https://bruno.verachten.fr/2025/11/12/docker-v29-riscv64-six-day-turnaround/)
 
 <!-- BLOG-POST-LIST:END -->
