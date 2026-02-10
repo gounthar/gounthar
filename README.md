@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [What About iOS? Or, How a \$30 Android Phone Embarrasses a \$1000 iPad](https://bruno.verachten.fr/2026/02/09/what-about-ios/)
 - [FOSDEM 2026: Jenkins Was There, and So Were You](https://bruno.verachten.fr/2026/02/02/fosdem-2026-jenkins-was-there/)
 - [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://bruno.verachten.fr/2026/01/15/docker-unsupported-gpu-second-life/)
 - [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://bruno.verachten.fr/2025/12/26/the-ring-around-the-rosie-upgrading-nextjs-on-riscv/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [BuildKit for RISC-V64: When Your Demo Decides to Betray You](https://bruno.verachten.fr/2025/12/09/buildkit-for-riscv64-when-your-demo-decides-to-betray-you/)
 - [Fixing Concurrent GitHub Actions Workflows: Multi-Architecture Package Repository Guide](https://bruno.verachten.fr/2025/11/20/fixing-concurrent-github-actions-workflows-multi-architecture-package-repository-guide/)
 - [The One-Line Patch That Unlocked Next.js on RISC-V: A Detective Story](https://bruno.verachten.fr/2025/11/15/nextjs-riscv64-one-line-patch-breakthrough/)
-- [Building Next.js SWC from Source for RISC-V: A Journey Through the ring Dependency Maze](https://bruno.verachten.fr/2025/11/14/building-nextjs-swc-from-source-for-riscv/)
 
 <!-- BLOG-POST-LIST:END -->
