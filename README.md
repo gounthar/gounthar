@@ -20,7 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [What About iOS? Or, How a \$30 Android Phone Embarrasses a \$1000 iPad](https://bruno.verachten.fr/2026/02/09/what-about-ios/)
+- [What About iOS? Or, How a 30-Dollar Android Phone Embarrasses a 1000-Dollar iPad](https://bruno.verachten.fr/2026/02/09/what-about-ios/)
 - [FOSDEM 2026: Jenkins Was There, and So Were You](https://bruno.verachten.fr/2026/02/02/fosdem-2026-jenkins-was-there/)
 - [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://bruno.verachten.fr/2026/01/15/docker-unsupported-gpu-second-life/)
 - [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://bruno.verachten.fr/2025/12/26/the-ring-around-the-rosie-upgrading-nextjs-on-riscv/)
