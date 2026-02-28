@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Running a Local LLM on RISC-V: Building llama.cpp on a Banana Pi F3 &lpar;Part 1&rpar;](https://bruno.verachten.fr/2026/02/27/Running-a-Local-LLM-on-RISC-V-Building-llama.cpp-on-a-Banana-Pi-F3-Part-1/)
 - [When a Docker Captain Puts an AI Tool in a Container on RISC-V &lpar;Because Of Course He Does&rpar;](https://bruno.verachten.fr/2026/02/25/When-a-Docker-Captain-Puts-an-AI-Tool-in-a-Container-on-RISC-V/)
 - [Building WASI SDK on RISC-V: Self-Hosted WebAssembly Development on a Banana Pi F3](https://bruno.verachten.fr/2026/02/25/Building-WASI-SDK-on-RISC-V/)
 - [Can WebAssembly Run on RISC-V? Testing Atym Containers on a Banana Pi F3](https://bruno.verachten.fr/2026/02/24/WebAssembly-on-RISC-V-Banana-Pi-F3/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [FOSDEM 2026: Jenkins Was There, and So Were You](https://bruno.verachten.fr/2026/02/02/fosdem-2026-jenkins-was-there/)
 - [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://bruno.verachten.fr/2026/01/15/docker-unsupported-gpu-second-life/)
 - [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://bruno.verachten.fr/2025/12/26/the-ring-around-the-rosie-upgrading-nextjs-on-riscv/)
-- [The Old Dog Learns a New Trick: Cross-Compiling Tauri CLI for RISC-V](https://bruno.verachten.fr/2025/12/23/the-old-dog-learns-a-new-trick-cross-compiling-tauri-cli-for-riscv/)
 
 <!-- BLOG-POST-LIST:END -->
