@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Building a Python Wheel Factory for RISC-V](https://bruno.verachten.fr/2026/03/10/Building-a-Python-Wheel-Factory-for-RISC-V/)
 - [Installing XCP-ng on Scaleway Elastic Metal: 30 Hours of Pain, 10 Minutes of Script](https://bruno.verachten.fr/2026/03/05/installing-xcp-ng-on-scaleway-elastic-metal/)
 - [Running 100 Wasm Containers on a Raspberry Pi &lpar;with 903 MB of RAM&rpar;](https://bruno.verachten.fr/2026/03/01/Running-100-Wasm-Containers-on-a-Raspberry-Pi/)
 - [Your AI Agents Need Their Own Computers](https://bruno.verachten.fr/2026/02/28/Your-AI-Agents-Need-Their-Own-Computers/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Can WebAssembly Run on RISC-V? Testing Atym Containers on a Banana Pi F3](https://bruno.verachten.fr/2026/02/24/WebAssembly-on-RISC-V-Banana-Pi-F3/)
 - [WebAssembly on Embedded Devices: A Docker Captain Tries Atym](https://bruno.verachten.fr/2026/02/17/WebAssembly-on-Embedded-Devices-Atym/)
 - [Running Node.js on RISC-V with Docker &lpar;when there&#39;s no official image yet&rpar;](https://bruno.verachten.fr/2026/02/16/Running-Node-js-on-RISC-V-with-Docker/)
-- [What About iOS? Or, How a 30-Dollar Android Phone Embarrasses a 1000-Dollar iPad](https://bruno.verachten.fr/2026/02/09/what-about-ios/)
 
 <!-- BLOG-POST-LIST:END -->
