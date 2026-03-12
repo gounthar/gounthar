@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Dependency Rabbit Hole: Why 25 RISC-V Python Wheels Weren&#39;t Enough](https://bruno.verachten.fr/2026/03/11/the-dependency-rabbit-hole/)
 - [Building a Python Wheel Factory for RISC-V](https://bruno.verachten.fr/2026/03/10/Building-a-Python-Wheel-Factory-for-RISC-V/)
 - [Installing XCP-ng on Scaleway Elastic Metal: 30 Hours of Pain, 10 Minutes of Script](https://bruno.verachten.fr/2026/03/05/installing-xcp-ng-on-scaleway-elastic-metal/)
 - [Running 100 Wasm Containers on a Raspberry Pi &lpar;with 903 MB of RAM&rpar;](https://bruno.verachten.fr/2026/03/01/Running-100-Wasm-Containers-on-a-Raspberry-Pi/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Building WASI SDK on RISC-V: Self-Hosted WebAssembly Development on a Banana Pi F3](https://bruno.verachten.fr/2026/02/25/Building-WASI-SDK-on-RISC-V/)
 - [Can WebAssembly Run on RISC-V? Testing Atym Containers on a Banana Pi F3](https://bruno.verachten.fr/2026/02/24/WebAssembly-on-RISC-V-Banana-Pi-F3/)
 - [WebAssembly on Embedded Devices: A Docker Captain Tries Atym](https://bruno.verachten.fr/2026/02/17/WebAssembly-on-Embedded-Devices-Atym/)
-- [Running Node.js on RISC-V with Docker &lpar;when there&#39;s no official image yet&rpar;](https://bruno.verachten.fr/2026/02/16/Running-Node-js-on-RISC-V-with-Docker/)
 
 <!-- BLOG-POST-LIST:END -->
