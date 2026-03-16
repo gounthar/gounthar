@@ -20,6 +20,7 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [NanoClaw on RISC-V: Running an AI Agent Runtime on a Banana Pi F3](https://bruno.verachten.fr/2026/03/14/nanoclaw-riscv-banana-pi-f3/)
 - [Benchmarking llama.cpp on SpacemiT K3: RISC-V AI Cores vs Standard RVV &lpar;Part 4&rpar;](https://bruno.verachten.fr/2026/03/12/Benchmarking-llama.cpp-on-SpacemiT-K3-RISC-V-AI-Cores-vs-Standard-RVV-Part-4/)
 - [The Dependency Rabbit Hole: Why 25 RISC-V Python Wheels Weren&#39;t Enough](https://bruno.verachten.fr/2026/03/11/the-dependency-rabbit-hole/)
 - [First Words: LLM Inference on RISC-V](https://bruno.verachten.fr/2026/03/11/first-words-llm-inference-on-risc-v/)
@@ -29,6 +30,5 @@ Father of two, husband of one, geek in denial, fond of handheld devices since 19
 - [Your AI Agents Need Their Own Computers](https://bruno.verachten.fr/2026/02/28/Your-AI-Agents-Need-Their-Own-Computers/)
 - [Running a Local LLM on RISC-V: Building llama.cpp on a Banana Pi F3 &lpar;Part 1&rpar;](https://bruno.verachten.fr/2026/02/27/Running-a-Local-LLM-on-RISC-V-Building-llama.cpp-on-a-Banana-Pi-F3-Part-1/)
 - [When a Docker Captain Puts an AI Tool in a Container on RISC-V &lpar;Because Of Course He Does&rpar;](https://bruno.verachten.fr/2026/02/25/When-a-Docker-Captain-Puts-an-AI-Tool-in-a-Container-on-RISC-V/)
-- [Building WASI SDK on RISC-V: Self-Hosted WebAssembly Development on a Banana Pi F3](https://bruno.verachten.fr/2026/02/25/Building-WASI-SDK-on-RISC-V/)
 
 <!-- BLOG-POST-LIST:END -->
