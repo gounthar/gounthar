@@ -14,5 +14,5 @@ jobs:
         with:
           max_post_count: 10
           feed_list: "https://bruno.verachten.fr/feed.xml"
-          template: "- [$title](https://bruno.verachten.fr$url)$newline"
+          template: "- [$title]($url)$newline"
           tag_post_pre_newline: true
