@@ -29,6 +29,7 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Twelve Years, One Bet on PowerPC: The Power Progress Community Story](https://bruno.verachten.fr/2026/05/12/twelve-years-one-bet-on-powerpc-the-power-progress-community-story/)
 - [NanoClaw on RISC-V: from “it works on my board” to automated builds](https://bruno.verachten.fr/2026/03/15/nanoclaw-on-risc-v-from-it-works-on-my-board-to-automated-builds/)
 - [NanoClaw on RISC-V: Running an AI Agent Runtime on a Banana Pi F3](https://bruno.verachten.fr/2026/03/14/nanoclaw-on-risc-v-running-an-ai-agent-runtime-on-a-banana-pi-f3/)
 - [Benchmarking llama.cpp on SpacemiT K3: RISC-V AI Cores vs Standard RVV &lpar;Part 4&rpar;](https://bruno.verachten.fr/2026/03/12/benchmarking-llama.cpp-on-spacemit-k3-risc-v-ai-cores-vs-standard-rvv-part-4/)
@@ -38,6 +39,5 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 - [Installing XCP-ng on Scaleway Elastic Metal: 30 Hours of Pain, 10 Minutes of Script](https://bruno.verachten.fr/2026/03/05/installing-xcp-ng-on-scaleway-elastic-metal-30-hours-of-pain-10-minutes-of-script/)
 - [Running 100 Wasm Containers on a Raspberry Pi &lpar;with 903 MB of RAM&rpar;](https://bruno.verachten.fr/2026/03/01/running-100-wasm-containers-on-a-raspberry-pi-with-903-mb-of-ram/)
 - [Your AI Agents Need Their Own Computers](https://bruno.verachten.fr/2026/02/28/your-ai-agents-need-their-own-computers/)
-- [Running a Local LLM on RISC-V: Building llama.cpp on a Banana Pi F3 &lpar;Part 1&rpar;](https://bruno.verachten.fr/2026/02/27/running-a-local-llm-on-risc-v-building-llama.cpp-on-a-banana-pi-f3-part-1/)
 
 <!-- BLOG-POST-LIST:END -->
