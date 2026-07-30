@@ -29,6 +29,7 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [yum said 301, the machine said 2024](https://bruno.verachten.fr/2026/07/29/yum-said-301-the-machine-said-2024/)
 - [The fastest Windows on XCP-ng is the one you don’t install](https://bruno.verachten.fr/2026/06/29/the-fastest-windows-on-xcp-ng-is-the-one-you-dont-install/)
 - [Twelve Years, One Bet on PowerPC: The Power Progress Community Story](https://bruno.verachten.fr/2026/05/12/twelve-years-one-bet-on-powerpc-the-power-progress-community-story/)
 - [NanoClaw on RISC-V: from “it works on my board” to automated builds](https://bruno.verachten.fr/2026/03/15/nanoclaw-on-risc-v-from-it-works-on-my-board-to-automated-builds/)
@@ -38,6 +39,5 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 - [The Dependency Rabbit Hole: Why 25 RISC-V Python Wheels Weren’t Enough](https://bruno.verachten.fr/2026/03/11/the-dependency-rabbit-hole-why-25-risc-v-python-wheels-werent-enough/)
 - [Building a Python Wheel Factory for RISC-V](https://bruno.verachten.fr/2026/03/10/building-a-python-wheel-factory-for-risc-v/)
 - [Installing XCP-ng on Scaleway Elastic Metal: 30 Hours of Pain, 10 Minutes of Script](https://bruno.verachten.fr/2026/03/05/installing-xcp-ng-on-scaleway-elastic-metal-30-hours-of-pain-10-minutes-of-script/)
-- [Running 100 Wasm Containers on a Raspberry Pi &lpar;with 903 MB of RAM&rpar;](https://bruno.verachten.fr/2026/03/01/running-100-wasm-containers-on-a-raspberry-pi-with-903-mb-of-ram/)
 
 <!-- BLOG-POST-LIST:END -->
