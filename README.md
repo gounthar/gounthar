@@ -29,6 +29,7 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [A RISC-V hypervisor in slow motion: XCP-ng and Xen Orchestra, from inside QEMU](https://bruno.verachten.fr/2026/10/23/a-risc-v-hypervisor-in-slow-motion-xcp-ng-and-xen-orchestra-from-inside-qemu/)
 - [Xen Summit 2026 in Munich: RISC-V takes the graveyard slot and wakes the room](https://bruno.verachten.fr/2026/09/28/xen-summit-2026-in-munich-risc-v-takes-the-graveyard-slot-and-wakes-the-room/)
 - [yum said 301, the machine said 2024](https://bruno.verachten.fr/2026/07/29/yum-said-301-the-machine-said-2024/)
 - [The fastest Windows on XCP-ng is the one you don’t install](https://bruno.verachten.fr/2026/06/29/the-fastest-windows-on-xcp-ng-is-the-one-you-dont-install/)
@@ -38,6 +39,5 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 - [Benchmarking llama.cpp on SpacemiT K3: RISC-V AI Cores vs Standard RVV &lpar;Part 4&rpar;](https://bruno.verachten.fr/2026/03/12/benchmarking-llama.cpp-on-spacemit-k3-risc-v-ai-cores-vs-standard-rvv-part-4/)
 - [First Words: LLM Inference on RISC-V](https://bruno.verachten.fr/2026/03/11/first-words-llm-inference-on-risc-v/)
 - [The Dependency Rabbit Hole: Why 25 RISC-V Python Wheels Weren’t Enough](https://bruno.verachten.fr/2026/03/11/the-dependency-rabbit-hole-why-25-risc-v-python-wheels-werent-enough/)
-- [Building a Python Wheel Factory for RISC-V](https://bruno.verachten.fr/2026/03/10/building-a-python-wheel-factory-for-risc-v/)
 
 <!-- BLOG-POST-LIST:END -->
