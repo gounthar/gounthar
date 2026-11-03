@@ -41,3 +41,5 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 - [The Dependency Rabbit Hole: Why 25 RISC-V Python Wheels Weren’t Enough](https://bruno.verachten.fr/2026/03/11/the-dependency-rabbit-hole-why-25-risc-v-python-wheels-werent-enough/)
 
 <!-- BLOG-POST-LIST:END -->
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
