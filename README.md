@@ -29,6 +29,8 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [No :latest for firmware: five verbs for Monday morning](https://bruno.verachten.fr/2026/11/19/no-latest-for-firmware-five-verbs-for-monday-morning/)
+- [The roommate in the closet: boot a BMC on your laptop](https://bruno.verachten.fr/2026/11/12/the-roommate-in-the-closet-boot-a-bmc-on-your-laptop/)
 - [Above this line: a lift ride under your hypervisor](https://bruno.verachten.fr/2026/11/05/above-this-line-a-lift-ride-under-your-hypervisor/)
 - [A RISC-V hypervisor in slow motion: XCP-ng and Xen Orchestra, from inside QEMU](https://bruno.verachten.fr/2026/10/23/a-risc-v-hypervisor-in-slow-motion-xcp-ng-and-xen-orchestra-from-inside-qemu/)
 - [Xen Summit 2026 in Munich: RISC-V takes the graveyard slot and wakes the room](https://bruno.verachten.fr/2026/09/28/xen-summit-2026-in-munich-risc-v-takes-the-graveyard-slot-and-wakes-the-room/)
@@ -37,8 +39,6 @@ Father of two, husband of one, geek in denial, beekeeper, permie.
 - [Twelve Years, One Bet on PowerPC: The Power Progress Community Story](https://bruno.verachten.fr/2026/05/12/twelve-years-one-bet-on-powerpc-the-power-progress-community-story/)
 - [NanoClaw on RISC-V: from “it works on my board” to automated builds](https://bruno.verachten.fr/2026/03/15/nanoclaw-on-risc-v-from-it-works-on-my-board-to-automated-builds/)
 - [NanoClaw on RISC-V: Running an AI Agent Runtime on a Banana Pi F3](https://bruno.verachten.fr/2026/03/14/nanoclaw-on-risc-v-running-an-ai-agent-runtime-on-a-banana-pi-f3/)
-- [Benchmarking llama.cpp on SpacemiT K3: RISC-V AI Cores vs Standard RVV &lpar;Part 4&rpar;](https://bruno.verachten.fr/2026/03/12/benchmarking-llama.cpp-on-spacemit-k3-risc-v-ai-cores-vs-standard-rvv-part-4/)
-- [First Words: LLM Inference on RISC-V](https://bruno.verachten.fr/2026/03/11/first-words-llm-inference-on-risc-v/)
 
 <!-- BLOG-POST-LIST:END -->
 
